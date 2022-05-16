@@ -1,0 +1,4 @@
+Page Controller:
+Например: OrderController
+он взаимодействует с классами: Basket, Security
+взаимодействует с вьюшками: order/info.html.php, order/checkout.html.php  
